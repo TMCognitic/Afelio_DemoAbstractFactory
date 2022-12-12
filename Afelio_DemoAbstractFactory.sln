@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afelio_DemoAbstractFactory", "Afelio_DemoAbstractFactory\Afelio_DemoAbstractFactory.csproj", "{8AC80087-110A-4EA1-B775-3C00AA990D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Afelio_DemoAbstractFactory.Models", "Afelio_DemoAbstractFactory.Models\Afelio_DemoAbstractFactory.Models.csproj", "{60A96DA8-00AA-4FAC-A50F-2B16E759E485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC80087-110A-4EA1-B775-3C00AA990D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC80087-110A-4EA1-B775-3C00AA990D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC80087-110A-4EA1-B775-3C00AA990D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC80087-110A-4EA1-B775-3C00AA990D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A96DA8-00AA-4FAC-A50F-2B16E759E485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A96DA8-00AA-4FAC-A50F-2B16E759E485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A96DA8-00AA-4FAC-A50F-2B16E759E485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A96DA8-00AA-4FAC-A50F-2B16E759E485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99BEFDC2-2113-4A16-885D-B6F6D029E673}
+	EndGlobalSection
+EndGlobal
